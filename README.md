@@ -1,13 +1,16 @@
-# Hi, I'm Emily Coutu 👋
+# Hi, I'm Emily Coutu (they/them/she/her) 👋
 
+I'm a Software and Systems Architect based in Edmonton, AB, with over 12 years of experience, primarily working with startups. I've navigated successes and failures, all of which have shaped the developer I am today.
 
-[cite_start]I'm a Software and Systems Architect based in Edmonton, AB, with over 12 years of experience, primarily working with startups[cite: 1, 3, 13]. [cite_start]I've navigated successes and failures, all of which have shaped the developer I am today[cite: 14].
-
-[cite_start]My passion is thriving with intelligent, diverse teams to solve complex challenges[cite: 16]. [cite_start]I'm driven to build solutions that have a lasting impact, adopting the goals of the business as my own[cite: 16].
+My passion is thriving with intelligent, diverse teams to solve complex challenges. I'm driven to build solutions that have a lasting impact, adopting the goals of the business as my own.
 
 ### 🔗 Connect with Me
 
-[cite_start][Portfolio](https://www.coutu.io) [cite: 6] | [cite_start][LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) [cite: 11] | [cite_start][Email](mailto:emily@coutu.io) [cite: 5] | [cite_start][Stack Exchange](https://stackexchange.com/users/YOUR_USER_ID) [cite: 10]
+[![GitHub](https://img.shields.io/badge/GitHub-ecoutu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecoutu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ecoutu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecoutu)
+[![Email](https://img.shields.io/badge/Email-emily%40coutu.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emily@coutu.io)
+[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/347808?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Stack%20Overflow&color=F58025)](https://stackoverflow.com/users/347808)
+
 
 ---
 
@@ -73,13 +76,15 @@ I'm a polyglot developer with deep experience across the full stack, from bare m
 
 ## 📌 Pinned Projects
 
-* [cite_start]**[.torrent to Transmission]** [cite: 8]
-    * A Chrome plugin I built for managing torrents through the Transmission API.
-    * [cite_start]Grew to **20,000+ active users**[cite: 8].
+**[![.torrent to Transmission](https://img.shields.io/badge/.torrent_to_Transmission-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecoutu/.torrent-to-Transmission)**
 
-* [cite_start]**[Cogment JS SDK]** [cite: 9]
-    * [cite_start]The official Typescript/Javascript SDK for the Cogment open-source framework, which I implemented and maintained[cite: 49].
-    * [cite_start]Published on NPM as `@cogment/cogment-js-sdk`[cite: 49].
+* A Chrome plugin I built for managing torrents through the Transmission API.
+* Grew to **20,000+ active users**.
+
+**[![Cogment JS SDK](https://img.shields.io/badge/Cogment_JS_SDK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cogment/cogment-js-sdk)**
+
+* The official Typescript/Javascript SDK for the Cogment open-source framework, which I implemented and maintained.
+* Published on NPM as `@cogment/cogment-js-sdk`.
 
 ---
 
@@ -87,14 +92,14 @@ I'm a polyglot developer with deep experience across the full stack, from bare m
 
 Beyond my professional work, I'm passionate about hardware, automation, and self-hosting.
 
-* [cite_start]**🖥️ Virtualization:** I run a `libvirt` home setup using KVM/QEMU to pass a GeForce 1080ti directly to a Windows 11 VM for gaming at ~95% native speed [cite: 137-139].
-* **💾 ZFS Storage:** I'm all-in on ZFS for robust data storage. [cite_start]My setup includes a fast NVME pool backed up to a spinning rust pool, with critical snapshots synced off-site to `rsync.net` using `Sanoid` and `Syncoid`[cite: 149, 150].
+* **🖥️ Virtualization:** I run a `libvirt` home setup using KVM/QEMU to pass a GeForce 1080ti directly to a Windows 11 VM for gaming at ~95% native speed.
+* **💾 ZFS Storage:** I'm all-in on ZFS for robust data storage. My setup includes a fast NVME pool backed up to a spinning rust pool, with critical snapshots synced off-site to `rsync.net` using `Sanoid` and `Syncoid`.
 * **🤖 DIY Electronics:** I love making things with Arduino and Raspberry Pi:
-    * [cite_start]A RaspberryPI-based fireplace controller[cite: 143].
-    * [cite_start]A fully automated hydroponics garden controlled by an Arduino[cite: 144].
-    * [cite_start]Hacking a Nest Thermostat to control line voltage heaters[cite: 148].
-    * [cite_start]A plant "nanny" that records time-lapses and monitors temp, humidity, and light[cite: 145].
-* [cite_start]**🔒 Crypto & Security:** I use GPG and Yubikeys for daily tasks like signing code, SSH authentication, and passwordless integration[cite: 151, 152].
+    * A RaspberryPI-based fireplace controller.
+    * A fully automated hydroponics garden controlled by an Arduino.
+    * Hacking a Nest Thermostat to control line voltage heaters.
+    * A plant "nanny" that records time-lapses and monitors temp, humidity, and light.
+* **🔒 Crypto & Security:** I use GPG and Yubikeys for daily tasks like signing code, SSH authentication, and passwordless integration.
 
 ---
 
