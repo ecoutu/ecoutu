@@ -1,4 +1,4 @@
-# Hi, I'm Emily Coutu 👋
+# Hi, I'm Emily Coutu (they / them / she / her) 👋
 
 I'm a Software and Systems Architect based in Edmonton, AB, with over 12 years of experience, primarily working with startups. I've navigated successes and failures, all of which have shaped the developer I am today.
 
