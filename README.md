@@ -91,6 +91,10 @@ Here are a few projects from my resume and pinned on my profile.
 
 - A TypeScript project for processing and organizing Google Photos takeout data.
 
+[![node-google-photos-takeout](https://img.shields.io/badge/apa102-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecoutu/apa102)
+
+- Arduino project for controlling 240 APA102 LEDs. Integrates with Sonoff 4ch WiFi Relay, allowing control with Google Assistant.
+
 [![Cogment JS SDK](https://img.shields.io/badge/Cogment_JS_SDK-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@cogment/cogment-js-sdk)
 
 - The official Typescript/Javascript SDK for the Cogment open-source AI framework, which I implemented as a company project.
