@@ -8,7 +8,7 @@ My passion is thriving with intelligent, diverse teams to solve complex challeng
 
 [![GitHub](https://img.shields.io/badge/GitHub-ecoutu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ecoutu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecoutu)
-[![Email](https://img.shields.io/badge/Email-emily%40coutu.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emily@coutu.io)
+[![Email](https://img.shields.io/badge/Email-emma%40coutu.io-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emma@coutu.io)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/347808?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Stack%20Overflow&color=F58025)](https://stackoverflow.com/users/347808)
 
 ---
